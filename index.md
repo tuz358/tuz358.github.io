@@ -1,10 +1,3 @@
----
-layout: home
----
-
-![Logo](http://)
--->
-
 # kanta mori
 
 ## About
