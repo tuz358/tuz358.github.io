@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <!--
@@ -11,7 +11,7 @@ layout: default
 ## About
 - **whoami:** Student(B1)
 - **Language:** Python
-- **Blog:** http://tuz.hatenablog.com/
+- **Blog:** [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
 
 
 ## Activities and Certificate Info
@@ -22,17 +22,22 @@ layout: default
 
 ## Projects
 ### Attack Visualization Tool
-![AVT](http://github.com/tuz358/tuz358.github.io/img/avt.gif)
+![AVT](http://tuz358.github.io/img/avt.gif)
+
 Visualize SSH Attacks by Mapbox and GeoIP
+
 [View on GitHub](http://github.com/tuz358/)
 
 ### Arduino based quadcopter
-![quadcopter](http://github.com/tuz358/tuz358.github.io/img/quadcopter.png)
+![quadcopter](http://tuz358.github.io/img/quadcopter.png)
+
 Tiny quadcopter from scratch
+
 [View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
 
-### Simple Ping Tool - Android application
+### Simple Ping Tool
 Android application for sending Ping packets
+
 [View on GitHub](http://github.com/tuz358/Simple-Ping-Tool/)
 
 <!--
