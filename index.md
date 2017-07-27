@@ -1,5 +1,3 @@
-# kanta mori
-
 ## About
 - **whoami:** Student(B1)
 - **Language:** Python
