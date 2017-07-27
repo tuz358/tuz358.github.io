@@ -1,6 +1,9 @@
+---
+layout: default
+---
 
 ## About
-- **whoami :**  Student (B1)
+- **whoami :**  Japanese Student (B1)
 - **Language :**  Python
 - **Blog :**  [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
 
@@ -13,9 +16,9 @@
 
 ## Projects
 ### Attack Visualization Tool
-Visualize Attacks by [Mapbox](https://www.mapbox.com) and GeoIP
+Visualize attacks by [Mapbox](https://www.mapbox.com) and GeoIP
 ![AVT](http://tuz358.github.io/img/avt.gif)
-[View on GitHub](http://github.com/tuz358/)
+[View on GitHub](http://github.com/tuz358/Attack-Visualization-Tool)
 
 ### Arduino based quadcopter
 Tiny quadcopter from scratch
