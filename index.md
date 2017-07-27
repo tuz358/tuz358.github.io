@@ -16,21 +16,25 @@
 Visualize Attacks by [Mapbox](https://www.mapbox.com) and GeoIP
 
 ![AVT](http://tuz358.github.io/img/avt.gif)
-<div align="right"> [View on GitHub](http://github.com/tuz358/) </div>
+[View on GitHub](http://github.com/tuz358/)
 
 ### Arduino based quadcopter
 Tiny quadcopter from scratch
 
-![quadcopter](http://tuz358.github.io/img/quadcopter.png) <div align="right">[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/) </div>
+![quadcopter](http://tuz358.github.io/img/quadcopter.png)
+[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
 
-### Simple Ping Tool
-Android application for sending Ping packets
-![MainScreen](http://tuz358.github.io/img/simple-ping-tool.png) ![HistoryScreen](http://tuz358.github.io/img/simple-ping-tool2.png) <div align="right"> [View on GitHub](http://github.com/tuz358/Simple-Ping-Tool/) </div>
-
-<!--
 ### IDS using Desktop Mascot
+Simple IDS written in Python
+![quadcopter](http://tuz358.github.io/img/ids.gif)
 [View on GitHub](http://github.com/tuz358/IDS-Desktop-Mascot/)
 
+
+<!--
+### Simple Ping Tool
+Android application for sending Ping packets
+![MainScreen](http://tuz358.github.io/img/simple-ping-tool.png) ![HistoryScreen](http://tuz358.github.io/img/simple-ping-tool2.png)
+[View on GitHub](http://github.com/tuz358/Simple-Ping-Tool/)
 
 ## Contacts
 **email:** contact.kantamori[at]gmail.com
