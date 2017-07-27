@@ -1,10 +1,11 @@
+
 ## About
-- **whoami:** Student(B1)
-- **Language:** Python
-- **Blog:** [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
+- **whoami :**  Student (B1)
+- **Language :**  ![python](http://tuz358.github.io/img/python.png) Python
+- **Blog :**  [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
 
 
-## Activities and Certificate Info
+## Activities and Certificate
 - Security mini camp 2017 in Kobe
 - Security camp 2017
 - Information Security Specialist (2016 Spring)
@@ -12,22 +13,21 @@
 
 ## Projects
 ### Attack Visualization Tool
+Visualize Attacks by [Mapbox](https://www.mapbox.com) and GeoIP
+
 ![AVT](http://tuz358.github.io/img/avt.gif)
-
-Visualize SSH Attacks by Mapbox and GeoIP
-
 [View on GitHub](http://github.com/tuz358/)
 
 ### Arduino based quadcopter
-![quadcopter](http://tuz358.github.io/img/quadcopter.png)
-
 Tiny quadcopter from scratch
 
+![quadcopter](http://tuz358.github.io/img/quadcopter.png)
 [View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
 
 ### Simple Ping Tool
 Android application for sending Ping packets
-
+![MainScreen](http://tuz358.github.io/img/simple-ping-tool.png)
+![HistoryScreen](http://tuz358.github.io/img/simple-ping-tool2.png)
 [View on GitHub](http://github.com/tuz358/Simple-Ping-Tool/)
 
 <!--

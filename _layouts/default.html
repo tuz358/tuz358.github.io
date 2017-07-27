@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -14,16 +14,20 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        <div align="center">
+          <img src="http://tuz358.github.io/tools.svg">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
 
+        <!--
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
+      -->
 
         {% if site.show_downloads %}
           <ul>
@@ -42,11 +46,30 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <div align="center">
+          <a href="https://twitter.com/tuz358" target="_blank" class="sqs-svg-icon--wrapper twitter">
+          <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 96 96">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+          </svg>
+          </div>
+          </a>
+          <a href="https://github.com/tuz358" target="_blank" class="sqs-svg-icon--wrapper github">
+          <div>
+          <svg class="sqs-svg-icon--social" viewBox="0 0 96 96">
+          <use class="sqs-use--icon" xlink:href="#github-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#github-mask"></use>
+          </svg>
+          </div>
+          </a>
+          <p>email: contact.kantamori@gmail.com</p>
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          <p>(c)2017, kanta mori</p>
+        </div>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
 
   {% if site.google_analytics %}
     <script>
