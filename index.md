@@ -14,13 +14,11 @@
 ## Projects
 ### Attack Visualization Tool
 Visualize Attacks by [Mapbox](https://www.mapbox.com) and GeoIP
-
 ![AVT](http://tuz358.github.io/img/avt.gif)
 [View on GitHub](http://github.com/tuz358/)
 
 ### Arduino based quadcopter
 Tiny quadcopter from scratch
-
 ![quadcopter](http://tuz358.github.io/img/quadcopter.png)
 [View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
 
