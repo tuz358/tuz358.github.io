@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+auto: true
+server: true
+markdown: kramdown
+
+title: kanta mori
+email: contact.kantamori@gmail.com
+twitter_username: _7U2_
+github_username: tuz358
