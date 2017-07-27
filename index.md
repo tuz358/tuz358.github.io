@@ -1,7 +1,7 @@
 
 ## About
 - **whoami :**  Student (B1)
-- **Language :**  ![python](http://tuz358.github.io/img/python.png) Python
+- **Language :**  Python
 - **Blog :**  [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
 
 
@@ -16,19 +16,16 @@
 Visualize Attacks by [Mapbox](https://www.mapbox.com) and GeoIP
 
 ![AVT](http://tuz358.github.io/img/avt.gif)
-[View on GitHub](http://github.com/tuz358/)
+<div align="right"> [View on GitHub](http://github.com/tuz358/) </div>
 
 ### Arduino based quadcopter
 Tiny quadcopter from scratch
 
-![quadcopter](http://tuz358.github.io/img/quadcopter.png)
-[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
+![quadcopter](http://tuz358.github.io/img/quadcopter.png) <div align="right">[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/) </div>
 
 ### Simple Ping Tool
 Android application for sending Ping packets
-![MainScreen](http://tuz358.github.io/img/simple-ping-tool.png)
-![HistoryScreen](http://tuz358.github.io/img/simple-ping-tool2.png)
-[View on GitHub](http://github.com/tuz358/Simple-Ping-Tool/)
+![MainScreen](http://tuz358.github.io/img/simple-ping-tool.png) ![HistoryScreen](http://tuz358.github.io/img/simple-ping-tool2.png) <div align="right"> [View on GitHub](http://github.com/tuz358/Simple-Ping-Tool/) </div>
 
 <!--
 ### IDS using Desktop Mascot
@@ -36,7 +33,7 @@ Android application for sending Ping packets
 
 
 ## Contacts
-**email:** orca00358[at]gmail.com
+**email:** contact.kantamori[at]gmail.com
 **Twitter:** [@_7U2_](http://twitter.com/_7U2_)
 **GitHub:** [@tuz358](http://github.com/tuz358/)
 
