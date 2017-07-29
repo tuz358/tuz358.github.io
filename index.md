@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About
-- **whoami :**  Japanese Student (B1)
+- **whoami :**  Japanese student (B1)
 - **Language :**  Python
 - **Blog :**  [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
 
@@ -11,7 +11,7 @@ layout: default
 ## Activities and Certificate
 - Security mini camp 2017 in Kobe
 - Security camp 2017
-- Information Security Specialist (2016 Spring)
+- Information Security Specialist (Spring 2016)
 
 
 ## Projects
