@@ -9,8 +9,8 @@ layout: default
 
 
 ## Activities and Certificate
-- Security mini camp 2017 in Kobe
 - Security camp 2017
+- Security mini camp 2017 in Kobe
 - Information Security Specialist (Spring 2016)
 
 
