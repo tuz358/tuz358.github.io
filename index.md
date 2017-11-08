@@ -4,7 +4,7 @@ layout: default
 
 ## About
 - **whoami :**  Japanese student (B1)
-- **Language :**  Python, C, Golang, x86 Assembly, Java
+- **Language :**  Python, C, Golang
 - **Blog :**  [http://tuz.hatenablog.com/](http://tuz.hatenablog.com/)
 
 
