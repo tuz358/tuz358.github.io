@@ -9,9 +9,11 @@ layout: default
 
 
 ## Activities and Certificate
+**2016**
+- Information Security Specialist (Spring term)
+**2017**
 - Security mini camp 2017 in Kobe
 - Security camp 2017
-- Information Security Specialist (Spring 2016)
 
 
 ## Projects
