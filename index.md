@@ -28,7 +28,7 @@ Tiny quadcopter from scratch
 
 ### IDS using Desktop Mascot
 Simple IDS written in Python
-![quadcopter](http://tuz358.github.io/img/ids.gif)
+![ids](http://tuz358.github.io/img/ids.gif)
 [View on GitHub](http://github.com/tuz358/IDS-Desktop-Mascot/)
 
 
@@ -40,7 +40,7 @@ Android application for sending Ping packets
 
 ## Contacts
 **email:** contact.kantamori[at]gmail.com
-**Twitter:** [@_7U2_](http://twitter.com/_7U2_)
+**Twitter:** [@tuz358](http://twitter.com/tuz358)
 **GitHub:** [@tuz358](http://github.com/tuz358/)
 
 
