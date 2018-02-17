@@ -31,7 +31,7 @@ Simple IDS written in Python
 ![ids](http://tuz358.github.io/img/ids.gif)
 [View on GitHub](http://github.com/tuz358/IDS-Desktop-Mascot/)
 <div align="right">
-  <a href="http://tuz358.github.io/projects/">See more ...</a>
+  <a href="http://tuz358.github.io/projects">See more ...</a>
 </div>
 
 <!--
