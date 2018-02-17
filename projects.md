@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Projects
+## Projects/Products
 ### Arduino based quadcopter
 Tiny quadcopter from scratch
 ![quadcopter](http://tuz358.github.io/img/quadcopter.png)

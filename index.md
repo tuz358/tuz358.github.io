@@ -15,7 +15,7 @@ layout: default
 ## Qualification
 - [Information Security Specialist](https://www.jitec.ipa.go.jp/1_11seido/sc_28.html) (Spring 2016)
 
-## Projects
+## Projects/Products
 ### Arduino based quadcopter
 Tiny quadcopter from scratch
 ![quadcopter](http://tuz358.github.io/img/quadcopter.png)
