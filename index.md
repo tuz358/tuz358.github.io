@@ -9,7 +9,7 @@ layout: default
 
 
 ## Activities
-<!-- - Internship at Intelligent Wave Inc. -->
+- Internship at Intelligent Wave Inc.
 - [Security camp 2017](https://www.ipa.go.jp/jinzai/camp/2017/zenkoku2017.html)
 - [Security mini camp 2017 in Kobe](http://www.security-camp.org/minicamp/kobe2017.html)
 
