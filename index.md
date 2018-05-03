@@ -9,13 +9,13 @@ layout: default
 
 
 ## Activities/Certificate
-2016
-- [Information Security Specialist](https://www.jitec.ipa.go.jp/1_11seido/sc_28.html) (Spring 2016)
-2017
+**201**6
+- [Information Security Specialist](https://www.jitec.ipa.go.jp/1_11seido/sc_28.html) (Spring 2016)  
+**2017**
 - [Security mini camp 2017 in Kobe](http://www.security-camp.org/minicamp/kobe2017.html)
 - [Security camp 2017](https://www.ipa.go.jp/jinzai/camp/2017/zenkoku2017.html)
-- Internship at Intelligent Wave Inc.
-2018
+- Internship at Intelligent Wave Inc.  
+**2018**
 - SecHack365
 
 ## Projects/Products
