@@ -13,11 +13,6 @@ Visualize attacks by [Mapbox](https://www.mapbox.com) and GeoIP
 ![AVT](http://tuz358.github.io/img/avt.gif)
 [View on GitHub](http://github.com/tuz358/Attack-Visualization-Tool)
 
-### GooN
-[Superhuman sports](https://superhuman-sports.org/) project
-![GooN](http://tuz358.github.io/img/goon.png)
-[View Website](http://goon.design/)
-
 ### IDS using Desktop Mascot
 Simple IDS written in Python
 ![quadcopter](http://tuz358.github.io/img/ids.gif)
