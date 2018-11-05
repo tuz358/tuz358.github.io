@@ -14,6 +14,7 @@ layout: default
 - [Security camp 2017](https://www.ipa.go.jp/jinzai/camp/2017/zenkoku2017.html)
 - Internship at Intelligent Wave Inc.
 - [SecHack365](https://sechack365.nict.go.jp/)
+- [CODE BLUE 2018 (Student staff)](https://codeblue.jp/2018/)
 
 ## Projects/Products
 ### Arduino based quadcopter
