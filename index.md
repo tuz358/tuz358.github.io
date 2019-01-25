@@ -15,24 +15,14 @@ layout: default
 - Internship at Intelligent Wave Inc.
 - [SecHack365](https://sechack365.nict.go.jp/)
 
-## Projects/Products
-### Arduino based quadcopter
-Tiny quadcopter from scratch
-![quadcopter](http://tuz358.github.io/img/quadcopter.png)
-[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
+## Books
+- [「つくりながら学ぶ! Pythonセキュリティプログラミング」](https://www.amazon.co.jp/gp/product/4839968500/), マイナビ出版 
 
-### Attack Visualization Tool
-Visualize attacks by [Mapbox](https://www.mapbox.com) and GeoIP
-![AVT](http://tuz358.github.io/img/avt.gif)
-[View on GitHub](http://github.com/tuz358/Attack-Visualization-Tool)
-
-### IDS using Desktop Mascot
-Simple IDS written in Python
-![ids](http://tuz358.github.io/img/ids.gif)
-[View on GitHub](http://github.com/tuz358/IDS-Desktop-Mascot/)
+<!--
 <div align="right">
   <a href="http://tuz358.github.io/projects">See more ...</a>
 </div>
+-->
 
 <!--
 ### Simple Ping Tool
