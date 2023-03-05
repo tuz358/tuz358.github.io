@@ -21,7 +21,6 @@ layout: default
 - 概要: 情報セキュリティ初心者が、自分でPythonコードを実装し動かしながらセキュリティの基礎を学ぶことができる本。ネットワーク、Web、暗号、ファジング、無線技術、仮想化技術等を扱っている。
 - 本書で使用されているサンプルコード : [http://gitlab.com/pysec101/pysec101](http://gitlab.com/pysec101/pysec101)
 
-
 ### 自作3軸CNCフライス盤
 
 ![CNC](http://tuz358.github.io/img/CNC.jpg)
