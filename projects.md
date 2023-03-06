@@ -28,18 +28,18 @@ layout: default
 - **概要**: 各軸(XYZ)がボールねじ+リニアガイドで駆動するCNCフライス盤。プラスチック、木材、アルミを加工可能。
 - **使用技術や部品等**: GRBL, CNCjs, Arduino等
 
-### 3. 自作クアッドコプター
-
-![quadcopter](http://tuz358.github.io/img/quadcopter.png)
-[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
-
-- **概要**: 小型(全長約90mm)のクアッドコプター。加速度+ジャイロセンサの情報を相補フィルタによりセンサフュージョンして姿勢を推定し、4つのモーター(プロペラ)それぞれの出力を調整することで飛行。
-- **使用技術や部品等**: ATMEGA328マイコン, MPU6050, ESP8266, Eagle, Arduino IDE
-
-### 4. 簡易CPUエミュレータの自作
+### 3. 簡易CPUエミュレータの自作
 
 ![cpu-emulator](http://tuz358.github.io/img/cpu-emulator_PoC.png)
 [View on GitHub](http://github.com/tuz358/cpu-emulator/)
 
 - **概要**: x86アーキテクチャCPUの基本的な命令セット、レジスタ・メモリ周りの動作を実装。上図は動作例としてフィボナッチ数列を計算する機械語コードを読み込ませた結果(EAXレジスタに返り値として計算結果が格納されている)。
 - **使用技術や部品等**: C, C++, NASM
+
+### 4. 自作クアッドコプター
+
+![quadcopter](http://tuz358.github.io/img/quadcopter.png)
+[View on GitHub](http://github.com/tuz358/quadcopter_mk-I/)
+
+- **概要**: 小型(全長約90mm)のクアッドコプター。加速度+ジャイロセンサの情報を相補フィルタによりセンサフュージョンして姿勢を推定し、4つのモーター(プロペラ)それぞれの出力を調整することで飛行。
+- **使用技術や部品等**: ATMEGA328マイコン, MPU6050, ESP8266, Eagle, Arduino IDE
